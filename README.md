@@ -10,8 +10,8 @@
     
     <title>Shahwaiz Shah</title>
     
-    <link href="css/bootstrap.css" rel="stylesheet" />
-	<link href="css/coming-sssoon.css" rel="stylesheet" />    
+    <link href="bootstrap.css" rel="stylesheet" />
+	<link href="coming-sssoon.css" rel="stylesheet" />    
   <link
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
